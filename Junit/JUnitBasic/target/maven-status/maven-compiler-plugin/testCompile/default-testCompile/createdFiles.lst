@@ -1,3 +1,5 @@
+com\cognizant\junit\AssertionsTest.class
+com\cognizant\junit\VerifyTest.class
 com\cognizant\junit\CalculatorAAATest.class
 com\cognizant\junit\CalculatorTest.class
-com\cognizant\junit\AssertionsTest.class
+com\cognizant\junit\MyServiceTest.class

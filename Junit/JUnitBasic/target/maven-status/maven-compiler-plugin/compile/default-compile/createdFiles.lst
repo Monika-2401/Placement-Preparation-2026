@@ -1,1 +1,4 @@
 com\cognizant\junit\Calculator.class
+com\cognizant\junit\LoggingExample.class
+com\cognizant\junit\MyService.class
+com\cognizant\junit\ExternalApi.class

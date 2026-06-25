@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: com.cognizant.junit.AssertionsTest
+Test set: com.cognizant.junit.MyServiceTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.079 s -- in com.cognizant.junit.AssertionsTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.076 s -- in com.cognizant.junit.MyServiceTest
